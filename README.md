@@ -1,2 +1,2 @@
 # scripto
-### basic scripting kitchen. 
+### Scripting Kitchen 
