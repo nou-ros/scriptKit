@@ -1,2 +1,2 @@
-# scripto
+# scriKit
 ### Scripting Kitchen 
